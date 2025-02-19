@@ -30,6 +30,10 @@ else:
     else :
         print("you lose")
 
+#this  is shortened version of following 
+# by analyzing that if computer - you is -1 or 2 then and then the user is wining
+# so  i implemented this logic and here you can see the result 
+
 """ if(computer== -1 and you == 1):   -2
         print("you lose")
     elif(computer== -1 and you == 0):    -1
